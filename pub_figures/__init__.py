@@ -22,7 +22,7 @@ class ScaledFigure(plt.Figure):
         self.sf_scale = self.UNITS[units]
         self.sf_norm_scale =  (1 / figsize[0], 1 / figsize[1])
 
-        self.label_params = dict(va='top', ha='left', fontweight='bold')
+        self.label_params = dict(va='top', ha='left', fontweight='bold', size='large')
         self.label_params.update(label_params)
 
         if label_offset is None:

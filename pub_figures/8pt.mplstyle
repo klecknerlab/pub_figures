@@ -2,7 +2,7 @@ lines.linewidth     : 1.0
 patch.linewidth     : 0.5
 
 font.family         : sans-serif
-font.size           : 6.67
+font.size           : 5.33
 #font.sans-serif     : Helvetica, Arial, sans-serif
 #svg.fonttype        : none
 
